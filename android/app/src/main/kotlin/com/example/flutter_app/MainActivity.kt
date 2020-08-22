@@ -1,4 +1,4 @@
-package com.example.imei-app
+package com.example.imeiapp
 
 import io.flutter.embedding.android.FlutterActivity
 
